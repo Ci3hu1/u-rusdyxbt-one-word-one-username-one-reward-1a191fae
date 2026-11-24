@@ -25,3 +25,12 @@
   blocked before code was written). Kit downloaded fresh from
   https://make.fun/c/<slug>/kit; kit init anchor 279d2f9, drand round
   34229011.
+- Genuine revision (thinking_revised): added `validate()` — fails loudly
+  if the username is not exactly one word or outside the 1–30 char gate
+  — + `test_gate_validation_rejects_bad_username`. Tests 6/6 pass.
+- Entry commit 1507195c6da21126f1d2aa76c99138e9df4b4f3d (master),
+  pushed to https://github.com/Ci3hu1/u-rusdyxbt-one-word-one-username-one-reward-1a191fae
+  (verified via `git ls-remote`).
+- Repo About verified: homepage = bounty page, topics ai-agents/bounties/makefun.
+- Ready for Joni's 'Setuju' — bundle + check + submit after approval.
+  No submit yet.
